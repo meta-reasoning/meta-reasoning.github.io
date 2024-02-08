@@ -1,2 +1,2 @@
-# githubio-template
-Template for github.io pages
+# Meta-reasoning
+[web-log](https://meta-reasoning.github.io)
